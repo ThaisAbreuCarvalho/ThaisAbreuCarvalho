@@ -6,10 +6,8 @@
   <img height="160em" src="https://awesome-github-stats.azurewebsites.net/user-stats/ThaisAbreuCarvalho?cardType=github&theme=great-gatsby"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisAbreuCarvalho&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
- <div align="center">
+<div style="display: inline_block" align="center">
   <h1> Main knowledge: </h1>
-</div>
-<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Thais-Csharp" height="55em" src="https://github.com/ThaisAbreuCarvalho/ThaisAbreuCarvalho/blob/main/icons/c-sharp.png">
   <img align="center" alt="Thais-dotnet" height="70em" src="https://github.com/ThaisAbreuCarvalho/ThaisAbreuCarvalho/blob/main/icons/dotnet.png">
   <img align="center" alt="Thais-html" height="60em" src="https://github.com/ThaisAbreuCarvalho/ThaisAbreuCarvalho/blob/main/icons/html.png">
