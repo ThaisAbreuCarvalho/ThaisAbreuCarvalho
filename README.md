@@ -17,8 +17,8 @@
 </div>
   <div style="display: inline_block" align="center">
      <h2>And you can see more about my certificates and courses below: </h2>
+    <a href="https://github.com/ThaisAbreuCarvalho/ThaisAbreuCarvalho/tree/main/certficados"> See All Certificates </a><br>
       <a href="https://github.com/ThaisAbreuCarvalho/ThaisAbreuCarvalho/blob/main/certficados/TDD%20com%20xUnit%20para%20C%23%20.NET%20Core.pdf">TDD com xUnit para C# .NET Core</a><br>
-     <a href="https://github.com/ThaisAbreuCarvalho/ThaisAbreuCarvalho/tree/main/certficados"> See All Certificates </a><br>
     <a href="https://github.com/ThaisAbreuCarvalho/ThaisAbreuCarvalho/blob/main/certficados/ASP.NET%20CORE%20%2B%20ENTITY%20FRAMEWORK%20%2B%20DDD%20(Domain-Driven%20Design).pdf">ASP.NET CORE + ENTITY FRAMEWORK + DDD (Domain-Driven Design)</a><br>
          <a href="https://github.com/ThaisAbreuCarvalho/ThaisAbreuCarvalho/blob/main/certficados/ASP%20NET%20(C%23)%20-%20Programa%C3%A7%C3%A3o%20em%20Camadas%20-%20CRUD%20completo.pdf">ASP NET (C#) - Programação em Camadas - CRUD completo</a><br>
     <a href="https://github.com/ThaisAbreuCarvalho/ThaisAbreuCarvalho/blob/main/certficados/C%23%20COMPLETO%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20%2B%20Projetos.pdf">C# COMPLETO Programação Orientada a Objetos + Projetos</a>
