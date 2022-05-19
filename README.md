@@ -23,6 +23,7 @@
     <br>
     <details>
     <summary>See All Certificates</summary>   
+       <a href=" https://github.com/ThaisAbreuCarvalho/ThaisAbreuCarvalho/blob/main/certficados/Refatorando%20para%20testes%20de%20unidade.pdf">Refatorando para testes de unidades</a><br>
          <a href="https://github.com/ThaisAbreuCarvalho/ThaisAbreuCarvalho/blob/main/certficados/ASP%20NET%20(C%23)%20-%20Programa%C3%A7%C3%A3o%20em%20Camadas%20-%20CRUD%20completo.pdf">ASP NET (C#) - Programação em Camadas - CRUD completo</a><br>
      <a href="https://github.com/ThaisAbreuCarvalho/ThaisAbreuCarvalho/blob/main/certficados/C%23%20COMPLETO%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20%2B%20Projetos.pdf">C# COMPLETO Programação Orientada a Objetos + Projetos</a><br>
        <a href="https://github.com/ThaisAbreuCarvalho/ThaisAbreuCarvalho/blob/main/certficados/ThaisCarvalho_Hackathon%20Portuguese-%20Certificate%20of%20Attendance%20(Meta)%20-%20Google%20Docs.pdf">Meta Hackaton 2022: product thinking, quiz and coding challenges</a><br>
