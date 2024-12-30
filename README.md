@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi there! I'm Thais, developer, fond of languages and cultures 👋 </h1>
-   <h3 > I'm graduated in System Analysis and Development, and still graduating in Software Engineering! </h3>
+   <h3 > I'm graduated in System Analysis and Development, currently working as a Software Engineer in a fast paced environment </h3>
   <h3 > I speak fluent English, native Portuguese and Intermediate Spanish, but I'm always learning something new! </h3>
 </div>
 <div align="center"><br>
